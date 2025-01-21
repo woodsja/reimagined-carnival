@@ -1,0 +1,2 @@
+resource_Admin,resource_LabTech,resource_MaterialsScientist,samples_metals,samples_ceramics,samples_composites,samples_polymers,makespan,total_cost,samples_per_year,cost_per_sample,utilization_Admin,utilization_LabTech,utilization_MaterialsScientist
+1,1,1,0,0,0,0,100,50000.0,45,1111.11,0.85,0.92,0.75

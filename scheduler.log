@@ -1,0 +1,195 @@
+2025-01-20 15:58:18,075 - INFO - Starting capacity analysis
+2025-01-20 17:23:35,032 - INFO - Starting capacity analysis
+2025-01-20 17:23:35,043 - ERROR - Analysis failed: Task COMP_4.1_0 references missing dependency COMP_3.4_0
+2025-01-20 17:25:30,824 - INFO - Starting capacity analysis
+2025-01-20 17:25:30,828 - ERROR - Analysis failed: Task COMP_4.1_0 references missing dependency COMP_3.4_0
+2025-01-20 17:27:54,509 - INFO - Starting capacity analysis
+2025-01-20 17:27:54,513 - ERROR - Analysis failed: Task MET_4.1_0 references missing dependency MET_3.4.1_0
+2025-01-20 17:28:23,626 - INFO - Starting capacity analysis
+2025-01-20 17:28:23,626 - ERROR - Analysis failed: Task MET_4.2_0 references missing dependency MET_3.4.1_0
+2025-01-20 17:28:34,860 - INFO - Starting capacity analysis
+2025-01-20 17:28:34,863 - ERROR - Analysis failed: Task MET_4.2_0 references missing dependency MET_3.4.1_0
+2025-01-20 17:29:02,448 - INFO - Starting capacity analysis
+2025-01-20 17:29:02,450 - ERROR - Analysis failed: Task POLY_4.1_0 references missing dependency POLY_3.4.1_0
+2025-01-20 17:29:35,950 - INFO - Starting capacity analysis
+2025-01-20 17:30:19,556 - INFO - 
+Detailed Results for Single Scenario:
+2025-01-20 17:30:19,556 - INFO - Makespan: 1534.0 days
+2025-01-20 17:30:19,556 - INFO - Total Cost: $70275.00
+2025-01-20 17:30:19,556 - INFO - Samples per Year: 1.0
+2025-01-20 17:30:19,556 - INFO - Cost per Sample: $11712.50
+2025-01-20 17:30:19,556 - INFO - 
+Resource Utilization:
+2025-01-20 17:30:19,564 - INFO - Administrative Support Specialist: 2.1%
+2025-01-20 17:30:19,566 - INFO - Laboratory Technician: 3.5%
+2025-01-20 17:30:19,566 - INFO - Materials Scientist (Metals): 3.8%
+2025-01-20 17:30:19,566 - INFO - Analytical Instrument Specialist: 4.4%
+2025-01-20 17:30:19,566 - INFO - Advanced Imaging Specialist: 4.4%
+2025-01-20 17:30:19,566 - INFO - Project Manager: 0.4%
+2025-01-20 17:30:19,566 - INFO - Materials Scientist (Ceramics): 7.0%
+2025-01-20 17:30:19,566 - INFO - Quality Assurance Officer: 0.3%
+2025-01-20 17:30:19,566 - INFO - Materials Scientist (Composites): 4.2%
+2025-01-20 17:32:57,197 - INFO - Starting capacity analysis
+2025-01-20 17:33:02,420 - ERROR - Analysis failed: PULP_CBC_CMD.__init__() got an unexpected keyword argument 'fracGap'
+2025-01-20 17:33:52,845 - INFO - Starting capacity analysis
+2025-01-20 17:34:33,033 - INFO - 
+Detailed Results for Single Scenario:
+2025-01-20 17:34:33,033 - INFO - Makespan: 1534.0 days
+2025-01-20 17:34:33,035 - INFO - Total Cost: $70275.00
+2025-01-20 17:34:33,035 - INFO - Samples per Year: 1.0
+2025-01-20 17:34:33,035 - INFO - Cost per Sample: $11712.50
+2025-01-20 17:34:33,035 - INFO - 
+Resource Utilization:
+2025-01-20 17:34:33,035 - INFO - Administrative Support Specialist: 2.1%
+2025-01-20 17:34:33,035 - INFO - Laboratory Technician: 3.5%
+2025-01-20 17:34:33,035 - INFO - Materials Scientist (Metals): 3.8%
+2025-01-20 17:34:33,043 - INFO - Analytical Instrument Specialist: 4.4%
+2025-01-20 17:34:33,043 - INFO - Advanced Imaging Specialist: 4.4%
+2025-01-20 17:34:33,045 - INFO - Project Manager: 0.4%
+2025-01-20 17:34:33,045 - INFO - Materials Scientist (Ceramics): 7.0%
+2025-01-20 17:34:33,045 - INFO - Quality Assurance Officer: 0.3%
+2025-01-20 17:34:33,045 - INFO - Materials Scientist (Composites): 4.2%
+2025-01-20 17:36:02,288 - INFO - Starting capacity analysis
+2025-01-20 17:36:16,768 - INFO - 
+Detailed Results for Single Scenario:
+2025-01-20 17:36:16,768 - INFO - Makespan: 62.0 days
+2025-01-20 17:36:16,768 - INFO - Total Cost: $72025.00
+2025-01-20 17:36:16,768 - INFO - Samples per Year: 35.0
+2025-01-20 17:36:16,768 - INFO - Cost per Sample: $12004.17
+2025-01-20 17:36:16,768 - INFO - 
+Resource Utilization:
+2025-01-20 17:36:16,768 - INFO - Administrative Support Specialist: 39.5%
+2025-01-20 17:36:16,768 - INFO - Laboratory Technician: 87.1%
+2025-01-20 17:36:16,776 - INFO - Materials Scientist (Metals): 41.9%
+2025-01-20 17:36:16,776 - INFO - Analytical Instrument Specialist: 54.8%
+2025-01-20 17:36:16,776 - INFO - Advanced Imaging Specialist: 39.5%
+2025-01-20 17:36:16,776 - INFO - Quality Assurance Officer: 6.5%
+2025-01-20 17:36:16,776 - INFO - Project Manager: 11.3%
+2025-01-20 17:36:16,776 - INFO - Materials Scientist (Ceramics): 108.1%
+2025-01-20 17:36:16,776 - INFO - Materials Scientist (Composites): 55.6%
+2025-01-20 17:38:49,450 - INFO - Starting capacity analysis
+2025-01-20 17:41:49,566 - ERROR - Analysis failed: max() iterable argument is empty
+2025-01-20 17:50:44,150 - INFO - Starting capacity analysis
+2025-01-20 17:53:51,207 - INFO - 
+Detailed Results for Single Scenario:
+2025-01-20 17:53:51,207 - INFO - Makespan: 39.0 days
+2025-01-20 17:53:51,209 - INFO - Total Cost: $7550.00
+2025-01-20 17:53:51,209 - INFO - Samples per Year: 9.0
+2025-01-20 17:53:51,209 - INFO - Cost per Sample: $7550.00
+2025-01-20 17:53:51,209 - INFO - 
+Resource Utilization:
+2025-01-20 17:53:51,209 - INFO - Administrative Support Specialist: 11.5%
+2025-01-20 17:53:51,209 - INFO - Materials Scientist (Metals): 17.9%
+2025-01-20 17:53:51,209 - INFO - Laboratory Technician: 20.5%
+2025-01-20 17:53:51,209 - INFO - Analytical Instrument Specialist: 12.8%
+2025-01-20 17:53:51,217 - INFO - Advanced Imaging Specialist: 15.4%
+2025-01-20 17:53:51,219 - INFO - Quality Assurance Officer: 1.3%
+2025-01-20 17:53:51,219 - INFO - Project Manager: nan%
+2025-01-20 17:53:51,219 - INFO - Materials Scientist (Composites): nan%
+2025-01-20 17:53:51,219 - INFO - Materials Scientist (Ceramics): nan%
+2025-01-20 18:03:23,765 - INFO - Starting capacity analysis
+2025-01-20 18:11:46,394 - INFO - Starting capacity analysis
+2025-01-20 19:18:41,927 - INFO - Starting capacity analysis
+2025-01-20 19:20:50,283 - INFO - Starting capacity analysis
+2025-01-20 21:23:32,350 - INFO - Starting capacity analysis
+2025-01-20 21:23:35,093 - INFO - Completed 50/216 scenarios (23.1%) Rate: 18.3 scenarios/sec ETA: 0.2 minutes
+2025-01-20 21:23:35,093 - INFO - Completed 100/216 scenarios (46.3%) Rate: 36.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 21:23:35,095 - INFO - Completed 150/216 scenarios (69.4%) Rate: 54.9 scenarios/sec ETA: 0.0 minutes
+2025-01-20 21:23:35,095 - INFO - Completed 200/216 scenarios (92.6%) Rate: 73.1 scenarios/sec ETA: 0.0 minutes
+2025-01-20 21:24:57,337 - INFO - Starting capacity analysis
+2025-01-20 21:25:00,084 - INFO - Completed 50/216 scenarios (23.1%) Rate: 18.2 scenarios/sec ETA: 0.2 minutes
+2025-01-20 21:25:00,084 - INFO - Completed 100/216 scenarios (46.3%) Rate: 36.4 scenarios/sec ETA: 0.1 minutes
+2025-01-20 21:25:00,090 - INFO - Completed 150/216 scenarios (69.4%) Rate: 54.5 scenarios/sec ETA: 0.0 minutes
+2025-01-20 21:25:00,090 - INFO - Completed 200/216 scenarios (92.6%) Rate: 72.6 scenarios/sec ETA: 0.0 minutes
+2025-01-20 21:42:07,887 - INFO - Starting capacity analysis
+2025-01-20 22:14:01,526 - INFO - Starting capacity analysis
+2025-01-20 22:14:53,602 - INFO - Completed 50/158760 scenarios (0.0%) Rate: 1.0 scenarios/sec ETA: 2709.5 minutes
+2025-01-20 22:17:04,267 - INFO - Starting capacity analysis
+2025-01-20 22:17:06,038 - INFO - Completed 50/216 scenarios (23.1%) Rate: 28.3 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:17:06,038 - INFO - Completed 100/216 scenarios (46.3%) Rate: 56.5 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:17:06,038 - INFO - Completed 150/216 scenarios (69.4%) Rate: 84.8 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:17:06,046 - INFO - Completed 200/216 scenarios (92.6%) Rate: 112.5 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:17:06,046 - INFO - Results saved to 'scenario_results_20250120_221704.csv'.
+2025-01-20 22:17:06,057 - INFO - Dashboard data prepared and saved to 'dashboard_data_20250120_221706.json'.
+2025-01-20 22:17:06,057 - INFO - Dashboard data prepared and saved to 'dashboard_data.json'
+2025-01-20 22:21:43,810 - INFO - Starting capacity analysis
+2025-01-20 22:21:44,928 - INFO - Completed 50/1600 scenarios (3.1%) Rate: 45.2 scenarios/sec ETA: 0.6 minutes
+2025-01-20 22:22:07,035 - INFO - Completed 100/1600 scenarios (6.2%) Rate: 4.3 scenarios/sec ETA: 5.8 minutes
+2025-01-20 22:22:31,239 - INFO - Completed 150/1600 scenarios (9.4%) Rate: 3.2 scenarios/sec ETA: 7.6 minutes
+2025-01-20 22:22:31,239 - INFO - Completed 200/1600 scenarios (12.5%) Rate: 4.2 scenarios/sec ETA: 5.5 minutes
+2025-01-20 22:22:31,239 - INFO - Completed 250/1600 scenarios (15.6%) Rate: 5.3 scenarios/sec ETA: 4.3 minutes
+2025-01-20 22:22:31,239 - INFO - Completed 300/1600 scenarios (18.8%) Rate: 6.3 scenarios/sec ETA: 3.4 minutes
+2025-01-20 22:22:31,239 - INFO - Completed 350/1600 scenarios (21.9%) Rate: 7.4 scenarios/sec ETA: 2.8 minutes
+2025-01-20 22:22:31,247 - INFO - Completed 400/1600 scenarios (25.0%) Rate: 8.4 scenarios/sec ETA: 2.4 minutes
+2025-01-20 22:22:31,247 - INFO - Completed 450/1600 scenarios (28.1%) Rate: 9.5 scenarios/sec ETA: 2.0 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 500/1600 scenarios (31.2%) Rate: 10.5 scenarios/sec ETA: 1.7 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 550/1600 scenarios (34.4%) Rate: 11.6 scenarios/sec ETA: 1.5 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 600/1600 scenarios (37.5%) Rate: 12.7 scenarios/sec ETA: 1.3 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 650/1600 scenarios (40.6%) Rate: 13.7 scenarios/sec ETA: 1.2 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 700/1600 scenarios (43.8%) Rate: 14.8 scenarios/sec ETA: 1.0 minutes
+2025-01-20 22:22:31,249 - INFO - Completed 750/1600 scenarios (46.9%) Rate: 15.8 scenarios/sec ETA: 0.9 minutes
+2025-01-20 22:22:31,257 - INFO - Completed 800/1600 scenarios (50.0%) Rate: 16.9 scenarios/sec ETA: 0.8 minutes
+2025-01-20 22:22:31,257 - INFO - Completed 850/1600 scenarios (53.1%) Rate: 17.9 scenarios/sec ETA: 0.7 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 900/1600 scenarios (56.2%) Rate: 19.0 scenarios/sec ETA: 0.6 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 950/1600 scenarios (59.4%) Rate: 20.0 scenarios/sec ETA: 0.5 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 1000/1600 scenarios (62.5%) Rate: 21.1 scenarios/sec ETA: 0.5 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 1050/1600 scenarios (65.6%) Rate: 22.1 scenarios/sec ETA: 0.4 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 1100/1600 scenarios (68.8%) Rate: 23.2 scenarios/sec ETA: 0.4 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 1150/1600 scenarios (71.9%) Rate: 24.2 scenarios/sec ETA: 0.3 minutes
+2025-01-20 22:22:31,259 - INFO - Completed 1200/1600 scenarios (75.0%) Rate: 25.3 scenarios/sec ETA: 0.3 minutes
+2025-01-20 22:22:31,267 - INFO - Completed 1250/1600 scenarios (78.1%) Rate: 26.3 scenarios/sec ETA: 0.2 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1300/1600 scenarios (81.2%) Rate: 27.4 scenarios/sec ETA: 0.2 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1350/1600 scenarios (84.4%) Rate: 28.5 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1400/1600 scenarios (87.5%) Rate: 29.5 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1450/1600 scenarios (90.6%) Rate: 30.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1500/1600 scenarios (93.8%) Rate: 31.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1550/1600 scenarios (96.9%) Rate: 32.7 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:22:31,269 - INFO - Completed 1600/1600 scenarios (100.0%) Rate: 33.7 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:22:31,288 - INFO - Results saved to 'scenario_results_20250120_222143.csv'.
+2025-01-20 22:22:31,288 - INFO - Dashboard data prepared and saved to 'dashboard_data_20250120_222231.json'.
+2025-01-20 22:22:31,290 - INFO - Dashboard data prepared and saved to 'dashboard_data.json'
+2025-01-20 22:37:08,059 - INFO - Starting capacity analysis
+2025-01-20 22:37:09,897 - INFO - Completed 50/1600 scenarios (3.1%) Rate: 27.3 scenarios/sec ETA: 0.9 minutes
+2025-01-20 22:37:14,302 - INFO - Completed 100/1600 scenarios (6.2%) Rate: 16.0 scenarios/sec ETA: 1.6 minutes
+2025-01-20 22:37:44,709 - INFO - Completed 150/1600 scenarios (9.4%) Rate: 4.1 scenarios/sec ETA: 5.9 minutes
+2025-01-20 22:37:47,963 - INFO - Completed 200/1600 scenarios (12.5%) Rate: 5.0 scenarios/sec ETA: 4.7 minutes
+2025-01-20 22:37:48,506 - INFO - Completed 250/1600 scenarios (15.6%) Rate: 6.2 scenarios/sec ETA: 3.6 minutes
+2025-01-20 22:37:48,691 - INFO - Completed 300/1600 scenarios (18.8%) Rate: 7.4 scenarios/sec ETA: 2.9 minutes
+2025-01-20 22:37:56,927 - INFO - Completed 350/1600 scenarios (21.9%) Rate: 7.2 scenarios/sec ETA: 2.9 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 400/1600 scenarios (25.0%) Rate: 7.9 scenarios/sec ETA: 2.5 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 450/1600 scenarios (28.1%) Rate: 8.9 scenarios/sec ETA: 2.2 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 500/1600 scenarios (31.2%) Rate: 9.9 scenarios/sec ETA: 1.9 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 550/1600 scenarios (34.4%) Rate: 10.8 scenarios/sec ETA: 1.6 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 600/1600 scenarios (37.5%) Rate: 11.8 scenarios/sec ETA: 1.4 minutes
+2025-01-20 22:37:58,793 - INFO - Completed 650/1600 scenarios (40.6%) Rate: 12.8 scenarios/sec ETA: 1.2 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 700/1600 scenarios (43.8%) Rate: 13.8 scenarios/sec ETA: 1.1 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 750/1600 scenarios (46.9%) Rate: 14.8 scenarios/sec ETA: 1.0 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 800/1600 scenarios (50.0%) Rate: 15.8 scenarios/sec ETA: 0.8 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 850/1600 scenarios (53.1%) Rate: 16.8 scenarios/sec ETA: 0.7 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 900/1600 scenarios (56.2%) Rate: 17.7 scenarios/sec ETA: 0.7 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 950/1600 scenarios (59.4%) Rate: 18.7 scenarios/sec ETA: 0.6 minutes
+2025-01-20 22:37:58,803 - INFO - Completed 1000/1600 scenarios (62.5%) Rate: 19.7 scenarios/sec ETA: 0.5 minutes
+2025-01-20 22:37:58,812 - INFO - Completed 1050/1600 scenarios (65.6%) Rate: 20.7 scenarios/sec ETA: 0.4 minutes
+2025-01-20 22:37:58,812 - INFO - Completed 1100/1600 scenarios (68.8%) Rate: 21.7 scenarios/sec ETA: 0.4 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1150/1600 scenarios (71.9%) Rate: 22.7 scenarios/sec ETA: 0.3 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1200/1600 scenarios (75.0%) Rate: 23.6 scenarios/sec ETA: 0.3 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1250/1600 scenarios (78.1%) Rate: 24.6 scenarios/sec ETA: 0.2 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1300/1600 scenarios (81.2%) Rate: 25.6 scenarios/sec ETA: 0.2 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1350/1600 scenarios (84.4%) Rate: 26.6 scenarios/sec ETA: 0.2 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1400/1600 scenarios (87.5%) Rate: 27.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1450/1600 scenarios (90.6%) Rate: 28.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:37:58,814 - INFO - Completed 1500/1600 scenarios (93.8%) Rate: 29.6 scenarios/sec ETA: 0.1 minutes
+2025-01-20 22:37:58,822 - INFO - Completed 1550/1600 scenarios (96.9%) Rate: 30.5 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:37:58,822 - INFO - Completed 1600/1600 scenarios (100.0%) Rate: 31.5 scenarios/sec ETA: 0.0 minutes
+2025-01-20 22:37:58,834 - INFO - Results saved to 'scenario_results_20250120_223708.csv'.
+2025-01-20 22:37:58,834 - INFO - Dashboard data prepared and saved to 'dashboard_data_20250120_223758.json'.
+2025-01-20 22:37:58,834 - INFO - Dashboard data prepared and saved to 'dashboard_data.json'
+2025-01-20 22:41:51,141 - INFO - Starting capacity analysis
+2025-01-20 22:41:51,156 - INFO - Results saved to 'scenario_results_20250120_224151.csv'.
+2025-01-20 22:41:51,156 - INFO - Dashboard data prepared and saved to 'dashboard_data_20250120_224151.json'.
+2025-01-20 22:41:51,156 - INFO - Dashboard data prepared and saved to 'dashboard_data.json'
+2025-01-20 22:47:19,715 - INFO - Starting capacity analysis
+2025-01-20 22:47:19,731 - WARNING - Scenario failed: {'metals_count': 1, 'ceramics_count': 1, 'composites_count': 1, 'polymer_count': 1, 'resource_capacities': {'Administrative Support Specialist': 1, 'Laboratory Technician': 1, 'Materials Scientist (Metals)': 1, 'Materials Scientist (Ceramics)': 1, 'Materials Scientist (Composites)': 1, 'Advanced Imaging Specialist': 1, 'Analytical Instrument Specialist': 1, 'Quality Assurance Officer': 1, 'Project Manager': 1}}. Error: '>' not supported between instances of 'LpAffineExpression' and 'int'
+2025-01-20 22:47:19,747 - INFO - Results saved to 'scenario_results_20250120_224719.csv'.
+2025-01-20 22:47:19,747 - INFO - Dashboard data prepared and saved to 'dashboard_data_20250120_224719.json'.
+2025-01-20 22:47:19,747 - INFO - Dashboard data prepared and saved to 'dashboard_data.json'
